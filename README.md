@@ -2,7 +2,7 @@
 
 
 ## ✒️ Brief
-
+This PHP-based web application serves as a digital recipe book where users can create accounts, log in, and manage their personal recipe collections. Additionally, users can browse and contribute recipes to the food community.
 
 &nbsp;
 
@@ -33,16 +33,14 @@ Insert gif or link to demo
 
 <div align="center">
   
-- **Front-end:** ![HTML](https://img.shields.io/badge/HTML-5-orange.svg?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-3-blue.svg?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg?style=for-the-badge) (optional: ![Bootstrap](https://img.shields.io/badge/Bootstrap-4-purple.svg?style=for-the-badge))
-
-- **Back-end:** ![PHP](https://img.shields.io/badge/PHP-7.0%2B-blueviolet.svg?style=for-the-badge)
-
-- **Database:** ![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-blue.svg?style=for-the-badge)
-
-- **Authentication:** ![PHP Sessions](https://img.shields.io/badge/PHP%20Sessions-secure-green.svg?style=for-the-badge) ![Cookies](https://img.shields.io/badge/Cookies-secure-green.svg?style=for-the-badge)
-
-- **Optional:** ![AJAX](https://img.shields.io/badge/AJAX-enabled-green.svg?style=for-the-badge) (for enhanced user experience), ![Email Service](https://img.shields.io/badge/Email%20Service-enabled-green.svg?style=for-the-badge) (for password recovery)
-
+![HTML](https://img.shields.io/badge/HTML5-orange.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
+![CSS](https://img.shields.io/badge/CSS3-blue.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white) &nbsp;
+![PHP](https://img.shields.io/badge/PHP-blueviolet.svg?style=for-the-badge&logo=php&logoColor=white) &nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-blue.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
+![PHP Sessions](https://img.shields.io/badge/PHP%20Sessions-green.svg?style=for-the-badge)
+<!--![AJAX](https://img.shields.io/badge/AJAX-green.svg?style=for-the-badge)
+![Email Service](https://img.shields.io/badge/Email%20Service-enabled-green.svg?style=for-the-badge)-->
 
 </div>
 
