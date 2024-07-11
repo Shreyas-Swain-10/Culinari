@@ -1,2 +1,35 @@
-# Recipe-Book-app
-Recipe Book web app to add, update and delete recipes with images. It is a student project practicing PHP and SQL in the Azure environment.
+# Culinari : Recipe-book made using PHP
+
+
+## ✒️ Brief
+
+
+&nbsp;
+
+## 📌 Features
+
+
+
+&nbsp;
+
+## 💻 Demo
+
+Insert gif or link to demo
+
+&nbsp;
+
+## 🛠 Technologies
+
+<div align="center">
+
+</div>
+
+&nbsp;
+
+
+## ✍🏼 Contributing
+
+Interested in contributing to this project? Thanks so much for your interest! I'm always looking for improvements to the project and contributions from open-source developers are greatly appreciated.
+
+If you have a contribution in mind, please fork the repository and submit a pull request for any improvements or bug fixes.
+
